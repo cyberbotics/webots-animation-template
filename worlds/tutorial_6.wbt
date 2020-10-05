@@ -211,12 +211,4 @@ Robot {
   }
   controller "four_wheels_collision_avoidance"
 }
-Robot {
-  name "supervisor"
-  controller "animation_recorder"
-  controllerArgs [
-      "--duration=5"
-      "--output=/home/animation/tutorial_6.html"
-  ]
-  supervisor TRUE
-}
+
