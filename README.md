@@ -1,6 +1,7 @@
 # Webots Animation Template
 
 [![Webots Badge](https://badgen.net/badge/icon/Preview%20simulation?label=Webots)](https://cyberbotics.github.io/webots-animation-template/master)
+![Record animation](https://github.com/cyberbotics/webots-animation-template/workflows/Record%20animation/badge.svg)
 
 This example shows how to generate Webots animation previews in CI using [Webots Animation](https://github.com/marketplace/actions/webots-animation) GitHub Action.
 You can preview the animation for the current project from https://cyberbotics.github.io/webots-animation-template/master or by clicking the badge above.
