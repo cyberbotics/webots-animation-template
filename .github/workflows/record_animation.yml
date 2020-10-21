@@ -10,3 +10,4 @@ jobs:
         uses: actions/checkout@v2
       - name: Record and deploy the animation
         uses: cyberbotics/webots-animation-action@develop
+# test
