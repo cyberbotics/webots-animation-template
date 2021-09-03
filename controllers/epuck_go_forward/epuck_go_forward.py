@@ -6,8 +6,8 @@ TIME_STEP = 64
 robot = Robot()
 
 # get the motor devices
-leftMotor = robot.getMotor('left wheel motor')
-rightMotor = robot.getMotor('right wheel motor')
+leftMotor = robot.getDevice('left wheel motor')
+rightMotor = robot.getDevice('right wheel motor')
 # set the target position of the motors
 leftMotor.setPosition(10.0)
 rightMotor.setPosition(10.0)
