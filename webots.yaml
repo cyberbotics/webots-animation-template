@@ -1,3 +1,4 @@
+type: demo
 animation:
   worlds:
     - file: worlds/tutorial_1.wbt
