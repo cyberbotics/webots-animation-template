@@ -13,4 +13,4 @@ Direct links to specific animations are also possible:
 
 Make sure to copy the `gh-pages` branch when using this template.
 
-Then, set the "GitHub Pages" source and select `Branch:gh-pages` and `/(root)` foler in your repository settings.
+Then, enable the "GitHub Pages" source and select `Branch:gh-pages` and `/(root)` folder in your repository settings.
